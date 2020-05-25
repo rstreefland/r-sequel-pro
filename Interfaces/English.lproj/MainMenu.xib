@@ -18,8 +18,8 @@
         </customObject>
         <menu title="MainMenu" systemMenu="main" id="29" userLabel="MainMenu">
             <items>
-                <menuItem title="Sequel Pro" id="56">
-                    <menu key="submenu" title="Sequel Pro" systemMenu="apple" id="57">
+                <menuItem title="rSequel Pro" id="56">
+                    <menu key="submenu" title="rSequel Pro" systemMenu="apple" id="57">
                         <items>
                             <menuItem title="About Sequel Pro" id="58">
                                 <modifierMask key="keyEquivalentModifierMask"/>
