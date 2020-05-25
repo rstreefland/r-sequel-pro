@@ -1153,7 +1153,7 @@
 		58FEF57D0F3B4E9700518E8E /* SPTableData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SPTableData.m; sourceTree = "<group>"; };
 		73F70A941E4E547500636550 /* SPJSONFormatter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPJSONFormatter.h; sourceTree = "<group>"; };
 		73F70A951E4E547500636550 /* SPJSONFormatter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SPJSONFormatter.m; sourceTree = "<group>"; };
-		8D15AC370486D014006FF6A4 /* Sequel Pro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Sequel Pro.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8D15AC370486D014006FF6A4 /* rSequel Pro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "rSequel Pro.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BE760B3C4586EA3B1A48600 /* SPHelpViewerController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SPHelpViewerController.m; sourceTree = "<group>"; };
 		9BE761AE45D4F6B9B90E67DE /* SPHelpViewerClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPHelpViewerClient.h; sourceTree = "<group>"; };
 		9BE764320CE8E86E8F63647B /* SPHelpViewerClient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SPHelpViewerClient.m; sourceTree = "<group>"; };
@@ -2263,7 +2263,7 @@
 		19C28FB0FE9D524F11CA2CBB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8D15AC370486D014006FF6A4 /* Sequel Pro.app */,
+				8D15AC370486D014006FF6A4 /* rSequel Pro.app */,
 				380F4ED90FC0B50500B0BFD7 /* Unit Tests.xctest */,
 				58CDB3360FCE13C900F8ACA3 /* SequelProTunnelAssistant */,
 				58B906E611BD989A000826E5 /* PSMTabBar.framework */,
@@ -2653,9 +2653,9 @@
 			productReference = 380F4ED90FC0B50500B0BFD7 /* Unit Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		584754C1120A04560057631F /* Sequel Pro QLGenerator */ = {
+		584754C1120A04560057631F /* rSequel Pro QLGenerator */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 584754C7120A04560057631F /* Build configuration list for PBXNativeTarget "Sequel Pro QLGenerator" */;
+			buildConfigurationList = 584754C7120A04560057631F /* Build configuration list for PBXNativeTarget "rSequel Pro QLGenerator" */;
 			buildPhases = (
 				BCD06FD5120AAAD700C73602 /* Headers */,
 				584754BE120A04560057631F /* Resources */,
@@ -2666,7 +2666,7 @@
 			);
 			dependencies = (
 			);
-			name = "Sequel Pro QLGenerator";
+			name = "rSequel Pro QLGenerator";
 			productName = "Sequel Pro QLGenerator";
 			productReference = 584754C2120A04560057631F /* Sequel Pro.qlgenerator */;
 			productType = "com.apple.product-type.bundle";
@@ -2704,9 +2704,9 @@
 			productReference = 58B9096111C3A42B000826E5 /* xibLocalizationPostprocessor */;
 			productType = "com.apple.product-type.tool";
 		};
-		58CDB3350FCE13C900F8ACA3 /* SequelProTunnelAssistant */ = {
+		58CDB3350FCE13C900F8ACA3 /* rSequelProTunnelAssistant */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 58CDB33F0FCE13E300F8ACA3 /* Build configuration list for PBXNativeTarget "SequelProTunnelAssistant" */;
+			buildConfigurationList = 58CDB33F0FCE13E300F8ACA3 /* Build configuration list for PBXNativeTarget "rSequelProTunnelAssistant" */;
 			buildPhases = (
 				58CDB3330FCE13C900F8ACA3 /* Sources */,
 				58CDB3340FCE13C900F8ACA3 /* Frameworks */,
@@ -2716,14 +2716,14 @@
 			dependencies = (
 				17D41AB22171157B00B1888D /* PBXTargetDependency */,
 			);
-			name = SequelProTunnelAssistant;
+			name = rSequelProTunnelAssistant;
 			productName = TunnelPassphraseRequester;
 			productReference = 58CDB3360FCE13C900F8ACA3 /* SequelProTunnelAssistant */;
 			productType = "com.apple.product-type.tool";
 		};
-		8D15AC270486D014006FF6A4 /* Sequel Pro */ = {
+		8D15AC270486D014006FF6A4 /* rSequelPro */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C05733C708A9546B00998B17 /* Build configuration list for PBXNativeTarget "Sequel Pro" */;
+			buildConfigurationList = C05733C708A9546B00998B17 /* Build configuration list for PBXNativeTarget "rSequelPro" */;
 			buildPhases = (
 				8D15AC300486D014006FF6A4 /* Sources */,
 				8D15AC330486D014006FF6A4 /* Frameworks */,
@@ -2742,10 +2742,10 @@
 				5847571E120A1C6D0057631F /* PBXTargetDependency */,
 				586AAB1014FAD3A2007F82BF /* PBXTargetDependency */,
 			);
-			name = "Sequel Pro";
+			name = rSequelPro;
 			productInstallPath = "$(HOME)/Applications";
 			productName = "sequel-pro";
-			productReference = 8D15AC370486D014006FF6A4 /* Sequel Pro.app */;
+			productReference = 8D15AC370486D014006FF6A4 /* rSequel Pro.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -2782,12 +2782,12 @@
 			);
 			projectRoot = "";
 			targets = (
-				8D15AC270486D014006FF6A4 /* Sequel Pro */,
+				8D15AC270486D014006FF6A4 /* rSequelPro */,
 				380F4ED80FC0B50500B0BFD7 /* Unit Tests */,
-				58CDB3350FCE13C900F8ACA3 /* SequelProTunnelAssistant */,
+				58CDB3350FCE13C900F8ACA3 /* rSequelProTunnelAssistant */,
 				58B906E511BD989A000826E5 /* PSMTabBar */,
 				58B9096011C3A42B000826E5 /* xibLocalizationPostprocessor */,
-				584754C1120A04560057631F /* Sequel Pro QLGenerator */,
+				584754C1120A04560057631F /* rSequel Pro QLGenerator */,
 				1798AB1C12676EA0000D946A /* Localize */,
 			);
 		};
@@ -3335,7 +3335,7 @@
 /* Begin PBXTargetDependency section */
 		1798AB2812676F14000D946A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 8D15AC270486D014006FF6A4 /* Sequel Pro */;
+			target = 8D15AC270486D014006FF6A4 /* rSequelPro */;
 			targetProxy = 1798AB2712676F14000D946A /* PBXContainerItemProxy */;
 		};
 		1798AB411267731F000D946A /* PBXTargetDependency */ = {
@@ -3350,7 +3350,7 @@
 		};
 		5847571E120A1C6D0057631F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 584754C1120A04560057631F /* Sequel Pro QLGenerator */;
+			target = 584754C1120A04560057631F /* rSequel Pro QLGenerator */;
 			targetProxy = 5847571D120A1C6D0057631F /* PBXContainerItemProxy */;
 		};
 		584D877115140F5400F24774 /* PBXTargetDependency */ = {
@@ -3375,7 +3375,7 @@
 		};
 		58CDB34B0FCE144000F8ACA3 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 58CDB3350FCE13C900F8ACA3 /* SequelProTunnelAssistant */;
+			target = 58CDB3350FCE13C900F8ACA3 /* rSequelProTunnelAssistant */;
 			targetProxy = 58CDB34A0FCE144000F8ACA3 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -3855,6 +3855,7 @@
 				GCC_PREFIX_HEADER = "Source/Sequel-Pro.pch";
 				INFOPLIST_FILE = "Resources/Plists/Sequel Pro QLGenerator-Info.plist";
 				INSTALL_PATH = /Library/QuickLook;
+				PRODUCT_BUNDLE_IDENTIFIER = uk.co.streefland.rhys.rsequelpro.qlgenerator;
 				PRODUCT_NAME = "Sequel Pro";
 				WRAPPER_EXTENSION = qlgenerator;
 			};
@@ -3871,6 +3872,7 @@
 				GCC_PREFIX_HEADER = "Source/Sequel-Pro.pch";
 				INFOPLIST_FILE = "Resources/Plists/Sequel Pro QLGenerator-Info.plist";
 				INSTALL_PATH = /Library/QuickLook;
+				PRODUCT_BUNDLE_IDENTIFIER = uk.co.streefland.rhys.rsequelpro.qlgenerator;
 				PRODUCT_NAME = "Sequel Pro";
 				WRAPPER_EXTENSION = qlgenerator;
 				ZERO_LINK = NO;
@@ -3886,6 +3888,7 @@
 				GCC_PREFIX_HEADER = "Source/Sequel-Pro.pch";
 				INFOPLIST_FILE = "Resources/Plists/Sequel Pro QLGenerator-Info.plist";
 				INSTALL_PATH = /Library/QuickLook;
+				PRODUCT_BUNDLE_IDENTIFIER = uk.co.streefland.rhys.rsequelpro.qlgenerator;
 				PRODUCT_NAME = "Sequel Pro";
 				WRAPPER_EXTENSION = qlgenerator;
 			};
@@ -3955,8 +3958,10 @@
 				INSTALL_PATH = "$(HOME)/Applications";
 				LIBRARY_SEARCH_PATHS = "$(SRCROOT)/Frameworks/zlib";
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MARKETING_VERSION = 1.0;
 				OTHER_LDFLAGS = "$(SRCROOT)/Frameworks/zlib/libz.a";
-				PRODUCT_NAME = "Sequel Pro";
+				PRODUCT_BUNDLE_IDENTIFIER = co.uk.streefland.rhys.rsequelpro;
+				PRODUCT_NAME = "rSequel Pro";
 				SEPARATE_STRIP = NO;
 			};
 			name = Distribution;
@@ -4141,8 +4146,10 @@
 				INSTALL_PATH = "$(HOME)/Applications";
 				LIBRARY_SEARCH_PATHS = "$(SRCROOT)/Frameworks/zlib";
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MARKETING_VERSION = 1.0;
 				OTHER_LDFLAGS = "$(SRCROOT)/Frameworks/zlib/libz.a";
-				PRODUCT_NAME = "Sequel Pro";
+				PRODUCT_BUNDLE_IDENTIFIER = co.uk.streefland.rhys.rsequelpro;
+				PRODUCT_NAME = "rSequel Pro";
 				SEPARATE_STRIP = NO;
 			};
 			name = Debug;
@@ -4161,8 +4168,10 @@
 				INSTALL_PATH = "$(HOME)/Applications";
 				LIBRARY_SEARCH_PATHS = "$(SRCROOT)/Frameworks/zlib";
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MARKETING_VERSION = 1.0;
 				OTHER_LDFLAGS = "$(SRCROOT)/Frameworks/zlib/libz.a";
-				PRODUCT_NAME = "Sequel Pro";
+				PRODUCT_BUNDLE_IDENTIFIER = co.uk.streefland.rhys.rsequelpro;
+				PRODUCT_NAME = "rSequel Pro";
 				SEPARATE_STRIP = NO;
 			};
 			name = Release;
@@ -4299,7 +4308,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Debug;
 		};
-		584754C7120A04560057631F /* Build configuration list for PBXNativeTarget "Sequel Pro QLGenerator" */ = {
+		584754C7120A04560057631F /* Build configuration list for PBXNativeTarget "rSequel Pro QLGenerator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				584754C4120A04560057631F /* Debug */,
@@ -4329,7 +4338,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Debug;
 		};
-		58CDB33F0FCE13E300F8ACA3 /* Build configuration list for PBXNativeTarget "SequelProTunnelAssistant" */ = {
+		58CDB33F0FCE13E300F8ACA3 /* Build configuration list for PBXNativeTarget "rSequelProTunnelAssistant" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				58CDB3380FCE13CB00F8ACA3 /* Debug */,
@@ -4339,7 +4348,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Debug;
 		};
-		C05733C708A9546B00998B17 /* Build configuration list for PBXNativeTarget "Sequel Pro" */ = {
+		C05733C708A9546B00998B17 /* Build configuration list for PBXNativeTarget "rSequelPro" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C05733C808A9546B00998B17 /* Debug */,
