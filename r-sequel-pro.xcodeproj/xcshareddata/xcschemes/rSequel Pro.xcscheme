@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8D15AC270486D014006FF6A4"
-               BuildableName = "Sequel Pro.app"
+               BuildableName = "rSequel Pro.app"
                BlueprintName = "rSequelPro"
                ReferencedContainer = "container:r-sequel-pro.xcodeproj">
             </BuildableReference>
@@ -31,7 +31,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8D15AC270486D014006FF6A4"
-            BuildableName = "Sequel Pro.app"
+            BuildableName = "rSequel Pro.app"
             BlueprintName = "rSequelPro"
             ReferencedContainer = "container:r-sequel-pro.xcodeproj">
          </BuildableReference>
@@ -71,7 +71,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8D15AC270486D014006FF6A4"
-            BuildableName = "Sequel Pro.app"
+            BuildableName = "rSequel Pro.app"
             BlueprintName = "rSequelPro"
             ReferencedContainer = "container:r-sequel-pro.xcodeproj">
          </BuildableReference>
@@ -88,7 +88,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8D15AC270486D014006FF6A4"
-            BuildableName = "Sequel Pro.app"
+            BuildableName = "rSequel Pro.app"
             BlueprintName = "rSequelPro"
             ReferencedContainer = "container:r-sequel-pro.xcodeproj">
          </BuildableReference>

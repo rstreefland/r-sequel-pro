@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "584754C1120A04560057631F"
                BuildableName = "Sequel Pro.qlgenerator"
-               BlueprintName = "Sequel Pro QLGenerator"
+               BlueprintName = "rSequel Pro QLGenerator"
                ReferencedContainer = "container:r-sequel-pro.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -52,7 +52,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "584754C1120A04560057631F"
             BuildableName = "Sequel Pro.qlgenerator"
-            BlueprintName = "Sequel Pro QLGenerator"
+            BlueprintName = "rSequel Pro QLGenerator"
             ReferencedContainer = "container:r-sequel-pro.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
