@@ -28,7 +28,7 @@
 #  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 #  OTHER DEALINGS IN THE SOFTWARE.
 #
-#  More info at <https://github.com/sequelpro/sequelpro>
+#  More info at <https://github.com/rstreefland/rsequelpro>
 
 #  Trims an application bundle of unnecessary files and resources that are generally not required and otherwise
 #  waste disk space.

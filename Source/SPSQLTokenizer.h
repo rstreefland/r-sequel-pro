@@ -26,7 +26,7 @@
 //  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 //  OTHER DEALINGS IN THE SOFTWARE.
 //
-//  More info at <https://github.com/sequelpro/sequelpro>
+//  More info at <https://github.com/rstreefland/rsequelpro>
 
 #define SP_SQL_TOKEN_DELIM_VALUE          1
 #define SP_SQL_TOKEN_DELIM_END            2

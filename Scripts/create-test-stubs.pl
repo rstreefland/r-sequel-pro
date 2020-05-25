@@ -28,7 +28,7 @@
 #  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 #  OTHER DEALINGS IN THE SOFTWARE.
 #
-#  More info at <https://github.com/sequelpro/sequelpro>
+#  More info at <https://github.com/rstreefland/rsequelpro>
 
 use strict;
 use warnings;
@@ -37,7 +37,7 @@ use Carp;
 use Getopt::Long;
 
 use constant PROJECT_NAME => 'sequel-pro';
-use constant PROJECT_URL  => 'https://github.com/sequelpro/sequelpro';
+use constant PROJECT_URL  => 'https://github.com/rstreefland/rsequelpro';
 
 #
 # Print this script's usage.

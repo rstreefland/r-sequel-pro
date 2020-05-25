@@ -17,7 +17,7 @@
                BlueprintIdentifier = "8D15AC270486D014006FF6A4"
                BuildableName = "Sequel Pro.app"
                BlueprintName = "Sequel Pro"
-               ReferencedContainer = "container:sequel-pro.xcodeproj">
+               ReferencedContainer = "container:r-sequel-pro.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -26,7 +26,16 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      shouldUseLaunchSchemeArgsEnv = "NO">
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "8D15AC270486D014006FF6A4"
+            BuildableName = "Sequel Pro.app"
+            BlueprintName = "Sequel Pro"
+            ReferencedContainer = "container:r-sequel-pro.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <Testables>
          <TestableReference
             skipped = "NO">
@@ -35,28 +44,10 @@
                BlueprintIdentifier = "380F4ED80FC0B50500B0BFD7"
                BuildableName = "Unit Tests.xctest"
                BlueprintName = "Unit Tests"
-               ReferencedContainer = "container:sequel-pro.xcodeproj">
+               ReferencedContainer = "container:r-sequel-pro.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8D15AC270486D014006FF6A4"
-            BuildableName = "Sequel Pro.app"
-            BlueprintName = "Sequel Pro"
-            ReferencedContainer = "container:sequel-pro.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
-      <EnvironmentVariables>
-         <EnvironmentVariable
-            key = "OBJC_DISABLE_GC"
-            value = "YES"
-            isEnabled = "YES">
-         </EnvironmentVariable>
-      </EnvironmentVariables>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -75,11 +66,9 @@
             BlueprintIdentifier = "8D15AC270486D014006FF6A4"
             BuildableName = "Sequel Pro.app"
             BlueprintName = "Sequel Pro"
-            ReferencedContainer = "container:sequel-pro.xcodeproj">
+            ReferencedContainer = "container:r-sequel-pro.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -94,7 +83,7 @@
             BlueprintIdentifier = "8D15AC270486D014006FF6A4"
             BuildableName = "Sequel Pro.app"
             BlueprintName = "Sequel Pro"
-            ReferencedContainer = "container:sequel-pro.xcodeproj">
+            ReferencedContainer = "container:r-sequel-pro.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

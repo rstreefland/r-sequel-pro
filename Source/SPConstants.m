@@ -26,7 +26,7 @@
 //  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 //  OTHER DEALINGS IN THE SOFTWARE.
 //
-//  More info at <https://github.com/sequelpro/sequelpro>
+//  More info at <https://github.com/rstreefland/rsequelpro>
 
 #import "SPConstants.h"
 
@@ -246,7 +246,7 @@ NSString *SPCopyContentOnTableCopy                    = @"CopyContentOnTableCopy
 // URLs
 NSString *SPDonationsURL                         = @"https://www.sequelpro.com/donate/";
 NSString *SPMySQLSearchURL                       = @"https://dev.mysql.com/doc/refman/%@/%@/%@.html";
-NSString *SPDevURL                               = @"https://github.com/sequelpro/sequelpro";
+NSString *SPDevURL                               = @"https://github.com/rstreefland/rsequelpro";
 
 // Toolbar constants
 

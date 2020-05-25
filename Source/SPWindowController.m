@@ -26,7 +26,7 @@
 //  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 //  OTHER DEALINGS IN THE SOFTWARE.
 //
-//  More info at <https://github.com/sequelpro/sequelpro>
+//  More info at <https://github.com/rstreefland/rsequelpro>
 
 #import "SPWindowController.h"
 #import "SPDatabaseDocument.h"
@@ -728,7 +728,7 @@
 	// Check the window and move it to front if it's key (eg for new window creation)
 	if ([[tabBarControl window] isKeyWindow]) [[tabBarControl window] orderFront:self];
 
-	// workaround bug where "source list" table views are broken in the new window. See https://github.com/sequelpro/sequelpro/issues/2863
+	// workaround bug where "source list" table views are broken in the new window. See https://github.com/rstreefland/rsequelpro/issues/2863
 	SPWindowController *newWindowController = tabBarControl.window.windowController;
 	newWindowController.selectedTableDocument.connectionController.favoritesOutlineView.selectionHighlightStyle = NSTableViewSelectionHighlightStyleRegular;
 	newWindowController.selectedTableDocument.dbTablesTableView.selectionHighlightStyle = NSTableViewSelectionHighlightStyleRegular;

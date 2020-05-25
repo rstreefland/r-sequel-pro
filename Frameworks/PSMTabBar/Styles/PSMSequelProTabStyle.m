@@ -18,7 +18,7 @@
 //  along with this program; if not, write to the Free Software
 //  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 //
-//  More info at <https://github.com/sequelpro/sequelpro>
+//  More info at <https://github.com/rstreefland/rsequelpro>
 
 #import "PSMSequelProTabStyle.h"
 #import "PSMTabBarCell.h"

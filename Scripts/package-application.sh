@@ -28,7 +28,7 @@
 #  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 #  OTHER DEALINGS IN THE SOFTWARE.
 #
-#  More info at <https://github.com/sequelpro/sequelpro>
+#  More info at <https://github.com/rstreefland/rsequelpro>
 
 #  A very basic script to build and sign a disk image for Sequel Pro;
 #  based on better work by Stuart Connolly.

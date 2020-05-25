@@ -28,7 +28,7 @@
 #  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 #  OTHER DEALINGS IN THE SOFTWARE.
 #
-#  More info at <https://github.com/sequelpro/sequelpro>
+#  More info at <https://github.com/rstreefland/rsequelpro>
 
 #  Updates the application/bundle's Info.plist CFBundleVersion to
 #  match that of the current Git revision.

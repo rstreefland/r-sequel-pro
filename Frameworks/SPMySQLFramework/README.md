@@ -39,5 +39,5 @@ developers will be more than happy to help you out.
 
 Copyright (c) 2018 Rowan Beentje (rowan.beent.je) & the Sequel Pro team. All rights reserved.
 
-SPMySQLFramework is free and open source software, licensed under [MIT](https://opensource.org/licenses/MIT). See [LICENSE](https://github.com/sequelpro/sequelpro/blob/master/Frameworks/SPMySQLFramework/LICENSE) for full details.
+SPMySQLFramework is free and open source software, licensed under [MIT](https://opensource.org/licenses/MIT). See [LICENSE](https://github.com/rstreefland/rsequelpro/blob/master/Frameworks/SPMySQLFramework/LICENSE) for full details.
 
